@@ -5,5 +5,9 @@ public class Test {
 	//this is the second change
 	
 	public void 
+
+
+public void method() {
+	//this is new
 }
 
